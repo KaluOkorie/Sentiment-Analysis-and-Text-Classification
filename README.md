@@ -1,12 +1,11 @@
 
-### README 2: Sentiment Analysis & Text Classification
+### Sentiment Analysis & Text Classification
 
-```markdown
 # Decoding User Emotions: Sentiment Analysis for Streaming Success
 
 ## 🎯 About This Project
 
-What if you could read every customer's mind? This project gets pretty close! I analyzed 119,000+ NetElix app reviews and 8,800+ movie descriptions to understand what users really think - and more importantly, why they think it.
+What if you could read every customer's mind? This project gets pretty close! I analyzed 119,000+ NetElix app reviews and 8,800+ movie descriptions to understand what users really think and more importantly, why they think it.
 
 ## 💡 The Counterintuitive Discovery
 
@@ -45,14 +44,3 @@ I also learned that **class imbalance is a silent accuracy killer**. Our text cl
 - **Word clouds** for visual theme identification
 - **Correlation analysis** between sentiment and engagement metrics
 
-## 🚀 Get Started
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/sentiment-analysis-netelix.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the analysis
-python sentiment_analysis.py
