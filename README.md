@@ -1,7 +1,7 @@
 
-### Sentiment Analysis & Text Classification
+# Sentiment Analysis & Text Classification
 
-# Decoding User Emotions: Sentiment Analysis for Streaming Success
+### Decoding User Emotions: Sentiment Analysis for Streaming Success
 
 ## 🎯 About This Project
 
